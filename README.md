@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felistus-kavuu
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science and java script
-- 💞️ I’m looking to collaborate on any data analytics/science projects
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning html, css and java script
+- 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach me: email:nzuvekavuu@gmail.com LinkedIn: Felistus Kavuu
 
 <!---
