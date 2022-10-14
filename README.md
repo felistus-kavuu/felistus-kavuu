@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felistus-kavuu
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning html, bootstrap, css, java script and django for backend development.
+- 🌱 I’m currently learning django for backend development.
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach me: email:nzuvekavuu@gmail.com LinkedIn: Felistus Kavuu
 
